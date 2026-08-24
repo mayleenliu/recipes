@@ -7,6 +7,7 @@ url: https://teakandthyme.com/matcha-white-chocolate-cookies/
 cuisine: American
 time: "60"
 type: recipe
+cover: https://teakandthyme.com/wp-content/uploads/2023/09/matcha-white-chocolate-cookies-DSC_5105-1x1-1200.jpg
 ---
 
 # [Matcha White Chocolate Cookies](https://teakandthyme.com/matcha-white-chocolate-cookies/)
