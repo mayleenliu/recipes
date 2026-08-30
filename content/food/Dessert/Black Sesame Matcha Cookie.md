@@ -9,41 +9,42 @@ rating:
 time: "120"
 cover: "[[food/images/matcha-black-sesame.jpeg]]"
 ---
-Black Sesame Earl Grey/Matcha Cookies
+# Black Sesame Earl Grey/Matcha Cookies
+![[matcha-black-sesame.jpeg|212]]
 
 Recipe by Eric King
 Makes 12-13 cookies
 
 Ellyn’s notes:
-Doubled the recipe
-Used 2 tbsp matcha instead of earl grey
-Cut sugar by 25%
-Didn’t dip in sugar coating
-When making sesame paste, used total 120g black sesame (reduction of the recipe suggestion), but 2 tbsp honey (previously too sweet), 1.5 tbsp water 
+- Doubled the recipe
+- Used 2 tbsp matcha instead of earl grey
+- Cut sugar by 25%
+- Didn’t dip in sugar coating
+- When making sesame paste, used total 120g black sesame (reduction of the recipe suggestion), but 2 tbsp honey (previously too sweet), 1.5 tbsp water 
 
 
 # Ingredients
 Dough
-10 tablespoons unsalted butter (142 grams)
-3 grams loose earl grey tea (about 3 teaspoons or 3 bags worth)
-1/2 cup light brown sugar, lightly packed (95 grams)
-1/2 cup granulated sugar (110 grams)
-1 large egg
-1 teaspoon vanilla extract
-1/2 teaspoon baking soda
-1/2 teaspoon baking powder
-1 1/2 cups all-purpose flour, measured using the scoop-and-sweep method
-(195 grams)
-6 tablespoons black tahini*
+- [ ] 10 tablespoons unsalted butter (142 grams)
+- [ ] 3 grams loose earl grey tea (about 3 teaspoons or 3 bags worth)
+- [ ] 1/2 cup light brown sugar, lightly packed (95 grams)
+- [ ] 1/2 cup granulated sugar (110 grams)
+- [ ] 1 large egg
+- [ ] 1 teaspoon vanilla extract
+- [ ] 1/2 teaspoon baking soda
+- [ ] 1/2 teaspoon baking powder
+- [ ] 1 1/2 cups all-purpose flour, measured using the scoop-and-sweep method
+- [ ] (195 grams)
+- [ ] 6 tablespoons black tahini*
 
 *Or, make your own black sesame paste
-3 ounces black sesame seeds (85 grams)
-2 tablespoons honey
-1-1.5 tablespoons water
+- [ ] 3 ounces black sesame seeds (85 grams)
+- [ ] 2 tablespoons honey
+- [ ] 1-1.5 tablespoons water
 
 Sugar coating
-3 tablespoons granulated sugar
-1 gram earl grey tea (about 1 teaspoon or 1 bag)
+- [ ] 3 tablespoons granulated sugar
+- [ ] 1 gram earl grey tea (about 1 teaspoon or 1 bag)
 
 # Directions
 1. If making your own black sesame paste, toast the sesame seeds in a 350°F oven for 8-10 minutes or until fragrant. Allow to cool then add to a food processor and grind into a coarse powder. Add the honey and a pinch of salt, and grind on high speed until it forms into a thick, inky-black paste (you’ll have to scrape down the sides a few times.) Thin out the paste with a tablespoon of water to start and add a teaspoon or so more if needed. It should be the consistency of natural peanut butter.
